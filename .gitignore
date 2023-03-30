@@ -1,0 +1,5 @@
+# Add common extensions of AI generated output like CSVs and PNGs
+*.csv
+*.png
+*.json
+*.txt
